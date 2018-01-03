@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/jfordec/kubernettes1.git" />
+  <component name="PublishConfigData" serverName="https://github.com/jfordec/kubernettes1.git" uploadOnCheckin="dc90e3dd-ac82-4544-b56e-8cdd9c9edf79">
+    <option name="myUploadOnCheckinName" value="https://github.com/jfordec/kubernettes1.git" />
+  </component>
 </project>
